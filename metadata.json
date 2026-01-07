@@ -1,0 +1,8 @@
+{
+  "name": "Escalter",
+  "description": "Uma plataforma de escaneamento com IA de última geração que fornece análises profissionais para alimentos, veículos, documentos e objetos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
